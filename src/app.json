@@ -1,0 +1,34 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/question/main",
+        "pages/news/main",
+        "pages/mine/main"
+    ],
+    "tabBar": {
+        "color": "#959394",
+        "selectedColor": "#009eef",
+        "borderStyle": "black",
+        "backgroundColor": "#fff",
+        "list": [{
+                "pagePath": "pages/news/main",
+                "text": "新闻",
+                "inconPath": "/static/news.png",
+                "selectedIconPath": "/static/newsed.png"
+            },
+            {
+                "pagePath": "pages/mine/main",
+                "text": "我的",
+                "inconPath": "/static/me.png",
+                "selectedIconPath": "/static/meed.png"
+            }
+        ]
+    },
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "迎新",
+        "navigationBarTextStyle": "black"
+    }
+
+}

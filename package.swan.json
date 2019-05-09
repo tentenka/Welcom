@@ -1,0 +1,12 @@
+{
+  "appid": "mpvue for miss u online",
+  "setting": {
+    "urlCheck": false
+  },
+  "condition": {
+    "swan": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
