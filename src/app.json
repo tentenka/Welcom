@@ -13,13 +13,13 @@
         "list": [{
                 "pagePath": "pages/news/main",
                 "text": "新闻",
-                "inconPath": "/static/news.png",
+                "iconPath": "/static/news.png",
                 "selectedIconPath": "/static/newsed.png"
             },
             {
                 "pagePath": "pages/mine/main",
                 "text": "我的",
-                "inconPath": "/static/me.png",
+                "iconPath": "/static/me.png",
                 "selectedIconPath": "/static/meed.png"
             }
         ]
